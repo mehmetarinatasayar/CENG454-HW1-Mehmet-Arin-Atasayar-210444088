@@ -47,3 +47,6 @@ Assets/AddressableAssetsData/*/*.bin*
 
 # Visual scripting generated files
 Assets/Unity.VisualScripting.Generated/
+
+.idea/
+Assets/_Recovery/
